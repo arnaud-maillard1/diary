@@ -1,3 +1,8 @@
+/**
+ * Ce programme double le nombre fourni en entrée.
+ *
+ * ... jfkdfjsljdfl
+ */
 #include <stdio.h>
 
 int main() {

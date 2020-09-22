@@ -1,8 +1,15 @@
 # Semaine 2
 
-- [ ] Résumé du premier labo
-- [ ] Premier programme en C
-- [ ] Découvrir la ligne commande
+- [x] Résumé du premier labo
+- [x] Premier programme en C
+- [x] Découvrir la ligne commande
+- [x] Certificats (git/github)
+- [x] Git
+
+## GitHub
+
+- https://github.com/Info1-TIN-D
+- https://github.com/heig-tin-info
 
 ## Labo-00
 
